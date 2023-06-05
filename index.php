@@ -13,11 +13,13 @@
 <div class="container">
     
     <h1 class="center">Mé portfolio</h1>
+
+    <!--<h2>O mě</h2>-->
     
     <div class="d-grid gap-2 d-md-block center">
         <a href="./zivotopis.php"><button class="btn btn-primary" type="button">Životopis, LinkedIn</button></a>
         <a href="./zivotopis.php"><button class="btn btn-primary" type="button">Mé zkušenosti</button></a>
-        <a href="./veci.php"><button class="btn btn-primary" type="button">Věci co provozuji a fungují</button></a>
+        <a href="./veci.php"><button class="btn btn-primary" type="button">Věci co provozuji</button></a>
     </div>
 
 </div>
