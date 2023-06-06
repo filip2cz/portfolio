@@ -19,7 +19,7 @@ body{
       display: none;
     }
 }
-@media (max-height: 595px) {
+@media (max-height: 755px) {
     .icon {
       display: none;
     }
