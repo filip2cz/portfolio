@@ -18,4 +18,9 @@ body{
     .icon {
       display: none;
     }
-  }
+}
+@media (max-height: 595px) {
+    .icon {
+      display: none;
+    }
+}
