@@ -5,3 +5,12 @@
     position: static;
     top: 40px;
 }
+body{
+    background-color: #121212 !important;
+}
+.dark{
+    background-color: #121212 !important;
+}
+#badge{
+    background-color: #121212 !important;
+}
