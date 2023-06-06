@@ -14,9 +14,8 @@ body{
 #badge{
     background-color: #121212 !important;
 }
-@media (max-width: 500px) {
+@media (max-width: 410px) {
     .icon {
       display: none;
     }
   }
-  
