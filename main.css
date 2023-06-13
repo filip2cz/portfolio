@@ -12,7 +12,8 @@ body{
     background-color: #121212 !important;
 }
 #badge{
-    background-color: #121212 !important;
+    height: 175px;
+    visibility: visible;
 }
 @media (max-width: 410px) {
     .icon {
