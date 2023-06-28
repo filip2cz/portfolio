@@ -1,26 +1,44 @@
 .center {
     text-align: center;
 }
+
 .nadpis {
     position: static;
     top: 40px;
 }
-body{
+
+body {
     background-color: #121212 !important;
 }
-.dark{
+
+.dark {
     background-color: #121212 !important;
 }
-#badge{
-    background-color: #121212 !important;
+
+#badge {
+    height: 175px;
+    visibility: visible;
 }
-@media (max-width: 410px) {
-    .icon {
-      display: none;
+
+.icon {
+    height: 400px;
+    padding-top: 30px;
+}
+
+@media (min-height: 630px) {
+    .nadpis {
+        padding-top: 3%;
     }
 }
+
+@media (max-width: 410px) {
+    .icon {
+        display: none;
+    }
+}
+
 @media (max-height: 755px) {
     .icon {
-      display: none;
+        display: none;
     }
 }
